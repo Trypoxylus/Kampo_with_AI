@@ -1,0 +1,6 @@
+Keras
+tensorflow
+streamlit
+opencv-python-headless
+Pillow
+efficientnet
